@@ -31,6 +31,9 @@ public class Main {
         //print out the data, too
         System.out.println(ReadRSS.readRSSFeed(myURL));
 
+				Validity myCompany = new Validity("LLC");
+				//System.out.println(Validity.checkCompany());
+
 				
         //todo add a "points system" to ensure which is most helpful, etc.
 

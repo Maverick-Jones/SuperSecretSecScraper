@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Validity { 
 	//class variables
 	String companyName;
-	boolean valid = true;
+	public boolean valid = true;
 	int objPoints = 0;
 	String registration;
 	int amountSold = 0;
@@ -24,7 +24,7 @@ public class Validity {
 	}
 
 	//object constructor
-	public Points(String name) {
+	public Validity(String name) {
 		this.companyName = name;
 	}
 
