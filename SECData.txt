@@ -1,0 +1,312 @@
+----------------------------
+The Super Secret SEC Scraper
+   Ming DeMers | Feb 2021
+----------------------------
+URL used: https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=D&company=&dateb=&owner=include&start=0&count=100&output=atom
+
+Latest Filings - Mon, 22 Feb 2021 10:30:53 EST
+/cgi-bin/browse-edgar?action=getcurrent
+
+/cgi-bin/browse-edgar?action=getcurrent
+
+Entry #1: D/A - PRANA ABSOLUTE RETURN FUND LP (0001699789) (Filer)
+https://www.sec.gov/Archives/edgar/data/1699789/000169978921000001/0001699789-21-000001-index.htm
+
+Entry #2: D/A - Petoskey Capital Fund, LP (0001723753) (Filer)
+https://www.sec.gov/Archives/edgar/data/1723753/000101359421000207/0001013594-21-000207-index.htm
+
+Entry #3: D/A - ACACIA CAPITAL LP (0001218213) (Filer)
+https://www.sec.gov/Archives/edgar/data/1218213/000121821321000001/0001218213-21-000001-index.htm
+
+Entry #4: D - CS1031 Colorado Power, DST (0001846596) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846596/000184659621000001/0001846596-21-000001-index.htm
+
+Entry #5: D/A - Chenavari Multi-Strategy Credit Fund SPC (0001510148) (Filer)
+https://www.sec.gov/Archives/edgar/data/1510148/000151014821000001/0001510148-21-000001-index.htm
+
+Entry #6: D - Healthtalk A.I., LLC (0001783323) (Filer)
+https://www.sec.gov/Archives/edgar/data/1783323/000178332321000002/0001783323-21-000002-index.htm
+
+Entry #7: D/A - FinTron, LLC (0001790927) (Filer)
+https://www.sec.gov/Archives/edgar/data/1790927/000179092721000003/0001790927-21-000003-index.htm
+
+Entry #8: D/A - HOLLOMAN ENERGY CORP (0001324736) (Filer)
+https://www.sec.gov/Archives/edgar/data/1324736/000132473621000002/0001324736-21-000002-index.htm
+
+Entry #9: DEFA14A - Fortress Value Acquisition Corp. II (0001815849) (Filer)
+https://www.sec.gov/Archives/edgar/data/1815849/000119312521050083/0001193125-21-050083-index.htm
+
+Entry #10: DEF 14A - MECHANICAL TECHNOLOGY INC (0000064463) (Filer)
+https://www.sec.gov/Archives/edgar/data/64463/000100329721000012/0001003297-21-000012-index.htm
+
+Entry #11: DEF 14A - Outlook Therapeutics, Inc. (0001649989) (Filer)
+https://www.sec.gov/Archives/edgar/data/1649989/000110465921026016/0001104659-21-026016-index.htm
+
+Entry #12: D - Modular Medical, Inc. (0001074871) (Filer)
+https://www.sec.gov/Archives/edgar/data/1074871/000101905621000148/0001019056-21-000148-index.htm
+
+Entry #13: DEFA14A - PRINCIPAL FINANCIAL GROUP INC (0001126328) (Filer)
+https://www.sec.gov/Archives/edgar/data/1126328/000110465921026007/0001104659-21-026007-index.htm
+
+Entry #14: D/A - Marshall Wace Funds LP - MW TOPS (US) Fund (0001619661) (Filer)
+https://www.sec.gov/Archives/edgar/data/1619661/000090266421001539/0000902664-21-001539-index.htm
+
+Entry #15: D - PA HVP Realtyco, L.L.C. (0001844265) (Filer)
+https://www.sec.gov/Archives/edgar/data/1844265/000184426521000001/0001844265-21-000001-index.htm
+
+Entry #16: D - HOLLOMAN ENERGY CORP (0001324736) (Filer)
+https://www.sec.gov/Archives/edgar/data/1324736/000132473621000001/0001324736-21-000001-index.htm
+
+Entry #17: DEFA14A - Ocugen, Inc. (0001372299) (Filer)
+https://www.sec.gov/Archives/edgar/data/1372299/000110465921025999/0001104659-21-025999-index.htm
+
+Entry #18: DEF 14A - Ocugen, Inc. (0001372299) (Filer)
+https://www.sec.gov/Archives/edgar/data/1372299/000110465921025997/0001104659-21-025997-index.htm
+
+Entry #19: D - trialmatch.me, Inc. (0001788361) (Filer)
+https://www.sec.gov/Archives/edgar/data/1788361/000178836121000001/0001788361-21-000001-index.htm
+
+Entry #20: DEFA14A - STARBOARD VALUE ACQUISITION CORP. (0001794905) (Filer)
+https://www.sec.gov/Archives/edgar/data/1794905/000110465921025981/0001104659-21-025981-index.htm
+
+Entry #21: DEFA14A - Pluralsight, Inc. (0001725579) (Filer)
+https://www.sec.gov/Archives/edgar/data/1725579/000119312521049840/0001193125-21-049840-index.htm
+
+Entry #22: D - Standard Cognition, Corp. (0001755359) (Filer)
+https://www.sec.gov/Archives/edgar/data/1755359/000175535921000001/0001755359-21-000001-index.htm
+
+Entry #23: DEFA14A - Tilray, Inc. (0001731348) (Filer)
+https://www.sec.gov/Archives/edgar/data/1731348/000119312521049399/0001193125-21-049399-index.htm
+
+Entry #24: D - Cove San Antonio Multifamily 29, LLC (0001846845) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846845/000184684521000001/0001846845-21-000001-index.htm
+
+Entry #25: D - LeaseABLE, Inc. (0001738562) (Filer)
+https://www.sec.gov/Archives/edgar/data/1738562/000184245521000002/0001842455-21-000002-index.htm
+
+Entry #26: D - Masiyah ConnectWorks, Inc. (0001842750) (Filer)
+https://www.sec.gov/Archives/edgar/data/1842750/000183632821000009/0001836328-21-000009-index.htm
+
+Entry #27: D - Mila Laniakea, Inc. (0001842758) (Filer)
+https://www.sec.gov/Archives/edgar/data/1842758/000183632821000008/0001836328-21-000008-index.htm
+
+Entry #28: DEFA14A - Pluralsight, Inc. (0001725579) (Filer)
+https://www.sec.gov/Archives/edgar/data/1725579/000119312521049358/0001193125-21-049358-index.htm
+
+Entry #29: D - Kealoha Mikael, Inc. (0001842763) (Filer)
+https://www.sec.gov/Archives/edgar/data/1842763/000183632821000007/0001836328-21-000007-index.htm
+
+Entry #30: D - Alfayiz TA, INC. (0001836330) (Filer)
+https://www.sec.gov/Archives/edgar/data/1836330/000183632821000006/0001836328-21-000006-index.htm
+
+Entry #31: D - Sharif Da&#39;Mani, INC. (0001836324) (Filer)
+https://www.sec.gov/Archives/edgar/data/1836324/000183632821000005/0001836328-21-000005-index.htm
+
+Entry #32: D - All American Realty Holdings II LLC (0001846970) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846970/000184697021000001/0001846970-21-000001-index.htm
+
+Entry #33: D - BP SUN, INC. (0001836334) (Filer)
+https://www.sec.gov/Archives/edgar/data/1836334/000183632821000004/0001836328-21-000004-index.htm
+
+Entry #34: D - Brown &amp; Brown Helping Care, Inc. (0001836316) (Filer)
+https://www.sec.gov/Archives/edgar/data/1836316/000183632821000003/0001836328-21-000003-index.htm
+
+Entry #35: D - M. ii. M. i, INC. (0001836318) (Filer)
+https://www.sec.gov/Archives/edgar/data/1836318/000183632821000002/0001836328-21-000002-index.htm
+
+Entry #36: D - Excision BioTherapeutics Inc (0001847173) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847173/000184717321000001/0001847173-21-000001-index.htm
+
+Entry #37: D - Emhotip, Inc. (0001836328) (Filer)
+https://www.sec.gov/Archives/edgar/data/1836328/000183632821000001/0001836328-21-000001-index.htm
+
+Entry #38: D - Neptune Wellness Solutions Inc. (0001401395) (Filer)
+https://www.sec.gov/Archives/edgar/data/1401395/000120919121012594/0001209191-21-012594-index.htm
+
+Entry #39: D - TMF1 Westmont LLC (0001847004) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847004/000184700421000001/0001847004-21-000001-index.htm
+
+Entry #40: D - Kayne Anderson BDC, Inc. (0001747172) (Filer)
+https://www.sec.gov/Archives/edgar/data/1747172/000163839721000009/0001638397-21-000009-index.htm
+
+Entry #41: D - Maple Springs Investors, LLC (0001847015) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847015/000184701521000001/0001847015-21-000001-index.htm
+
+Entry #42: D - CDE Villa LLC (0001847001) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847001/000184700121000001/0001847001-21-000001-index.htm
+
+Entry #43: D - Red Dot Income Fund LLC (0001846728) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846728/000184672821000001/0001846728-21-000001-index.htm
+
+Entry #44: D/A - SVMD ONE, LLC (0001803565) (Filer)
+https://www.sec.gov/Archives/edgar/data/1803565/000180356521000001/0001803565-21-000001-index.htm
+
+Entry #45: D - LPRE Wylie, LLC (0001843697) (Filer)
+https://www.sec.gov/Archives/edgar/data/1843697/000184369721000001/0001843697-21-000001-index.htm
+
+Entry #46: D - Corus Orthodontists Inc. (0001846182) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846182/000184618221000001/0001846182-21-000001-index.htm
+
+Entry #47: D - Defi Gravity Investments LP (0001846295) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846295/000184629521000001/0001846295-21-000001-index.htm
+
+Entry #48: D - LP Roundhill, LLC (0001843658) (Filer)
+https://www.sec.gov/Archives/edgar/data/1843658/000184365821000001/0001843658-21-000001-index.htm
+
+Entry #49: D - Ethos Brookland LLC (0001847174) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847174/000184717421000001/0001847174-21-000001-index.htm
+
+Entry #50: D - Connor Group Debt Fund XVII, LLC (0001847111) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847111/000094787121000250/0000947871-21-000250-index.htm
+
+Entry #51: D - Kailasa Capital Alpha Fund, LP (0001846723) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846723/000184672321000001/0001846723-21-000001-index.htm
+
+Entry #52: D/A - Internet of Value Fund I LLC (0001708215) (Filer)
+https://www.sec.gov/Archives/edgar/data/1708215/000170821521000001/0001708215-21-000001-index.htm
+
+Entry #53: D - OUI CAPITAL LP (0001832679) (Filer)
+https://www.sec.gov/Archives/edgar/data/1832679/000183267921000001/0001832679-21-000001-index.htm
+
+Entry #54: D - Vision Car Wash, LLC (0001846435) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846435/000184643521000003/0001846435-21-000003-index.htm
+
+Entry #55: D/A - GLOBAL EQUITY ACCESS FUND LP (0001439526) (Filer)
+https://www.sec.gov/Archives/edgar/data/1439526/000143952621000001/0001439526-21-000001-index.htm
+
+Entry #56: D - Emerald Dunes Investments, LLC (0001847150) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847150/000184715021000001/0001847150-21-000001-index.htm
+
+Entry #57: D - SJ East Campus ASC, LLC (0001847121) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847121/000184712121000001/0001847121-21-000001-index.htm
+
+Entry #58: D - 208 Villages on West Broadway, LLC (0001846536) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846536/000184653621000001/0001846536-21-000001-index.htm
+
+Entry #59: D - FloorFound, Inc. (0001847077) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847077/000184707721000001/0001847077-21-000001-index.htm
+
+Entry #60: D - ELMTREE U.S. NET LEASE FUND IV-B, L.P. (0001847132) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847132/000184713221000001/0001847132-21-000001-index.htm
+
+Entry #61: D - Storage Cap Holdings Fund 6, L.P. (0001845241) (Filer)
+https://www.sec.gov/Archives/edgar/data/1845241/000156761921004524/0001567619-21-004524-index.htm
+
+Entry #62: DEFM14A - Watford Holdings Ltd. (0001601669) (Filer)
+https://www.sec.gov/Archives/edgar/data/1601669/000114036121005535/0001140361-21-005535-index.htm
+
+Entry #63: D - Collaborate Investments LLC (0001847054) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847054/000184705421000001/0001847054-21-000001-index.htm
+
+Entry #64: DEL AM - AIM INVESTMENT FUNDS (INVESCO INVESTMENT FUNDS) (0000826644) (Filer)
+https://www.sec.gov/Archives/edgar/data/826644/000168035921000047/0001680359-21-000047-index.htm
+
+Entry #65: DEFA14A - Eaton Vance Floating-Rate 2022 Target Term Trust (0001701167) (Filer)
+https://www.sec.gov/Archives/edgar/data/1701167/000094039421000435/0000940394-21-000435-index.htm
+
+Entry #66: D/A - IPI Onshore Fund LP (0001788715) (Filer)
+https://www.sec.gov/Archives/edgar/data/1788715/000178871521000001/0001788715-21-000001-index.htm
+
+Entry #67: D - A&amp;Q Select SPC - NextEra Pension HF Strategies SP (0001845929) (Filer)
+https://www.sec.gov/Archives/edgar/data/1845929/000153698421000009/0001536984-21-000009-index.htm
+
+Entry #68: DEL AM - AIM GROWTH SERIES (INVESCO GROWTH SERIES) (0000202032) (Filer)
+https://www.sec.gov/Archives/edgar/data/202032/000168035921000046/0001680359-21-000046-index.htm
+
+Entry #69: DEL AM - AIM COUNSELOR SERIES TRUST (INVESCO COUNSELOR SERIES TRUST) (0001112996) (Filer)
+https://www.sec.gov/Archives/edgar/data/1112996/000168035921000045/0001680359-21-000045-index.htm
+
+Entry #70: D/A - YiLoSoft, LLC (0001765577) (Filer)
+https://www.sec.gov/Archives/edgar/data/1765577/000179835521000002/0001798355-21-000002-index.htm
+
+Entry #71: DEFA14A - Onconova Therapeutics, Inc. (0001130598) (Filer)
+https://www.sec.gov/Archives/edgar/data/1130598/000110465921025842/0001104659-21-025842-index.htm
+
+Entry #72: DFAN14A - ENGINE NO. 1 LLC (0001835549) (Filed by)
+https://www.sec.gov/Archives/edgar/data/1835549/000090266421001531/0000902664-21-001531-index.htm
+
+Entry #73: DFAN14A - EXXON MOBIL CORP (0000034088) (Subject)
+https://www.sec.gov/Archives/edgar/data/34088/000090266421001531/0000902664-21-001531-index.htm
+
+Entry #74: D - Gus Gear, LLC (0001847024) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847024/000184702421000001/0001847024-21-000001-index.htm
+
+Entry #75: D - Stellus Credit Offshore ERISA Fund III, LP (0001844676) (Filer)
+https://www.sec.gov/Archives/edgar/data/1844676/000184467621000001/0001844676-21-000001-index.htm
+
+Entry #76: D - IPI Offshore Fund Ltd (0001788588) (Filer)
+https://www.sec.gov/Archives/edgar/data/1788588/000178858821000001/0001788588-21-000001-index.htm
+
+Entry #77: D/A - Aravt Global Fund Ltd. (0001599810) (Filer)
+https://www.sec.gov/Archives/edgar/data/1599810/000159981021000001/0001599810-21-000001-index.htm
+
+Entry #78: DEF 14A - BLONDER TONGUE LABORATORIES INC (0001000683) (Filer)
+https://www.sec.gov/Archives/edgar/data/1000683/000121390021010623/0001213900-21-010623-index.htm
+
+Entry #79: DEFA14A - FUELCELL ENERGY INC (0000886128) (Filer)
+https://www.sec.gov/Archives/edgar/data/886128/000110465921025828/0001104659-21-025828-index.htm
+
+Entry #80: D - Stellus Credit Master Fund III, LLC (0001844677) (Filer)
+https://www.sec.gov/Archives/edgar/data/1844677/000184467721000001/0001844677-21-000001-index.htm
+
+Entry #81: D/A - MVP ES FUND LVI LLC (0001769205) (Filer)
+https://www.sec.gov/Archives/edgar/data/1769205/000176920521000001/0001769205-21-000001-index.htm
+
+Entry #82: D/A - Birch Grove Credit Strategies Fund Ltd. (0001590732) (Filer)
+https://www.sec.gov/Archives/edgar/data/1590732/000090266421001530/0000902664-21-001530-index.htm
+
+Entry #83: D - Finxact, Inc. (0001763430) (Filer)
+https://www.sec.gov/Archives/edgar/data/1763430/000176343021000001/0001763430-21-000001-index.htm
+
+Entry #84: DEFA14A - EXXON MOBIL CORP (0000034088) (Filer)
+https://www.sec.gov/Archives/edgar/data/34088/000119312521049082/0001193125-21-049082-index.htm
+
+Entry #85: D - Bramalea Partners Fund, L.P. (0001845825) (Filer)
+https://www.sec.gov/Archives/edgar/data/1845825/000184582521000001/0001845825-21-000001-index.htm
+
+Entry #86: DEF 14A - FUELCELL ENERGY INC (0000886128) (Filer)
+https://www.sec.gov/Archives/edgar/data/886128/000110465921025808/0001104659-21-025808-index.htm
+
+Entry #87: D/A - Aravt Global Partners LP (0001599543) (Filer)
+https://www.sec.gov/Archives/edgar/data/1599543/000159954321000001/0001599543-21-000001-index.htm
+
+Entry #88: D/A - Birch Grove Credit Strategies Fund LP (0001590733) (Filer)
+https://www.sec.gov/Archives/edgar/data/1590733/000090266421001529/0000902664-21-001529-index.htm
+
+Entry #89: D - 6801 France DST (0001847023) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847023/000184702321000001/0001847023-21-000001-index.htm
+
+Entry #90: D - Amelyore Digital Assets Fund, Ltd. (0001846747) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846747/000184674721000001/0001846747-21-000001-index.htm
+
+Entry #91: D/A - Investment Partners, LLC - Hedged Strategies Fund (0001575075) (Filer)
+https://www.sec.gov/Archives/edgar/data/1575075/000157507521000001/0001575075-21-000001-index.htm
+
+Entry #92: D - DAS-Alliance Group, LLC (0001847084) (Filer)
+https://www.sec.gov/Archives/edgar/data/1847084/000184708421000001/0001847084-21-000001-index.htm
+
+Entry #93: D/A - Investment Partners, LLC - Tactical Strategies Fund (0001669821) (Filer)
+https://www.sec.gov/Archives/edgar/data/1669821/000166982121000001/0001669821-21-000001-index.htm
+
+Entry #94: D - InnovAccer Inc. (0001651343) (Filer)
+https://www.sec.gov/Archives/edgar/data/1651343/000165134321000001/0001651343-21-000001-index.htm
+
+Entry #95: D/A - Investment Partners, LLC - Alternative Yield Fund V (0001817508) (Filer)
+https://www.sec.gov/Archives/edgar/data/1817508/000181750821000001/0001817508-21-000001-index.htm
+
+Entry #96: D - PERI-Lakeway I, LLC (0001846367) (Filer)
+https://www.sec.gov/Archives/edgar/data/1846367/000184636721000001/0001846367-21-000001-index.htm
+
+Entry #97: D - PRD Spanish Springs LLC (0001845318) (Filer)
+https://www.sec.gov/Archives/edgar/data/1845318/000184531821000001/0001845318-21-000001-index.htm
+
+Entry #98: D/A - Investment Partners, LLC - Alternative Yield Fund IV (0001797208) (Filer)
+https://www.sec.gov/Archives/edgar/data/1797208/000179720821000001/0001797208-21-000001-index.htm
+
+Entry #99: DEFA14A - EXXON MOBIL CORP (0000034088) (Filer)
+https://www.sec.gov/Archives/edgar/data/34088/000119312521049047/0001193125-21-049047-index.htm
+
+Entry #100: D/A - Investment Partners, LLC - Alternative Yield Fund III (0001709977) (Filer)
+https://www.sec.gov/Archives/edgar/data/1709977/000170997721000001/0001709977-21-000001-index.htm
+
+
