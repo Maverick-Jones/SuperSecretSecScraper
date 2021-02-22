@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Points { 
+public class Validity { 
 	//class variables
 	String companyName;
 	boolean valid = true;
