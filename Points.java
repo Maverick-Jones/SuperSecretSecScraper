@@ -1,26 +1,31 @@
 import java.util.ArrayList;
 
-public class Points 
-{
+public class Points { 
+	//class variables
 	String companyName;
 	boolean valid = true;
 	int objPoints = 0;
 	String registration;
 	int amountSold = 0;
 	int points = 0;
+	int i;
 
-	String buzzWord[] = new String[3];
-		buzzWord[1] = ("health");
-		buzzWord[2] = ("happiness");
+	//two lists to containing words of interest
+	ArrayList<String> buzzWord = new ArrayList<>();
+	ArrayList<String> badWord = new ArrayList<>();
 
-	String badWord = new String[3];
-		badWord[1] = ("LLC");
-		badWord[2] = ("CORP");
-		badWord[3] = ("INC");
+	public void addWords() {
+		buzzWord.add("health");
+		buzzWord.add("happiness");
+
+		badWord.add("LLC");
+		badWord.add("CORP");
+		badWord.add("INC");
+	}
 
 	//object constructor
-	public company(String name) {
-		this.name = companyName;
+	public Points(String name) {
+		this.companyName = name;
 	}
 
 	//envokes all following methods for points and valididity
@@ -33,16 +38,16 @@ public class Points
 
 	//check to see if the name involves badWords, which automatically DQ's the company
 	public void checkValid() {
-		for (i=0; i<badWord.length; i++) {
-			if (companyName.contains(badWord[i]
+		for (i=0; i<badWord.size(); i++) {
+			if (companyName.contains(badWord.get(i)))
 				valid = false;
 		}
 	}
 
 	//checking for buzzWord, adds a "point" if there is one
 	public void checkBuzzwords () {
-		for (i=0; i<buzzWord.length; i++) {
-			if (companyName.contains(buzzWord[i]
+		for (i=0; i<buzzWord.size(); i++) {
+			if (companyName.contains(buzzWord.get(i)))
 				points++;
 		}
 	}
