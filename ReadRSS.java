@@ -4,7 +4,7 @@ import java.io.*;
 
 //Grabs from an RSS and converts to string for printing to txt
 public class ReadRSS {
-    //method to return the titles of Form D's
+    //method to return the titles of Form D's (TODO divide the labour here)
     public static String readRSSFeed(String urlAddress) {
         try{
             URL rssUrl = new URL (urlAddress);
@@ -12,6 +12,9 @@ public class ReadRSS {
             String sourceCode = "";
             String line;
 						int n = 0;
+
+						//Seperate this method from the while loops, make them its own method called findName or something
+
             //loop to add all titles and data
             while ((line = in.readLine()) != null) {
 							  int endIndex = 0;

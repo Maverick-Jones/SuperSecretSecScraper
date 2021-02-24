@@ -57,4 +57,10 @@ public class Validity {
 
 	}
 
+	/*
+	- Txt file of the form itself can be acessed with HTML tags
+	- For companies that make the first pass (name), have the readRSS class look into the form itself
+	- Look for inc year, place, amount, etc.
+	*/
+
 }
