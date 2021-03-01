@@ -1,0 +1,73 @@
+Jurisdiction of Incorporation/Organization
++2 DELAWARE
++ 1 UK, London
+
+Entity Type
+Corporation 
+All other should disqualify
+
+Year of Incorporation
+Within Last 5 Years ( All others disqualified)
++5 if most recent year
++4 if last year
++3 for 2 years ago
+Etc
+
+ Principal Place of Business 
+City
++ 1 for New York, San Francisco, London, Tokyo,
+
+Related Persons
++5 if CEO is listed
++1 for Executive officer listed
+
+Industry Group
++2
+Agriculture
+Biotechnology
+Other Health Care
+Computers
+  	Telecommunications
+  	Other Technology
+
++1
+ Business Services
+ Energy Conservation
+ Other Energy
+
+0 Points
+ Health Insurance
+  Pharmaceuticals
+Manufacturing
+Other
+
+Disqualify:
+  	Commercial Banking
+  	Insurance
+  	Investing
+  	Investment Banking
+  	Pooled Investment Fund
+  	Coal Mining
+  	Electric Utilities
+  	Environmental Services
+  	Oil & Gas
+  	Other Energy
+  	Hospitals & Physicians
+Real Estate
+  	Commercial
+  	Construction
+  	REITS & Finance
+  	Residential
+  	Other Real Estate 
+Retailing
+Restaurants	
+Travel
+  	Airlines & Airports
+  	Lodging & Conventions
+  	Tourism & Travel Services
+  	Other Travel
+  
+
+Type(s) of Securities Offered
++1 Equity
+0 Other
