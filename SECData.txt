@@ -4,7 +4,7 @@ The Super Secret SEC Scraper
 ----------------------------
 URL used: https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=D&company=&dateb=&owner=include&start=0&count=100&output=atom
 
-Latest Filings - Sun, 28 Feb 2021 23:38:02 EST
+Latest Filings - Mon, 01 Mar 2021 01:18:52 EST
 /cgi-bin/browse-edgar?action=getcurrent
 
 /cgi-bin/browse-edgar?action=getcurrent
